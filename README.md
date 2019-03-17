@@ -1,5 +1,7 @@
 # Face_Detection_Recognition
 
+Implementation of paper published by Turk et al., titled "Eigenfaces for Recognition".
+
 The approach followed for detection of human faces in images considers face recognition as a 2-D recognition problem.
 
 Face images are projected onto a ‘face space’ whose basis vectors are the eigenvectors(called ‘eigen- faces’) of covariance matrix of image data matrix.
