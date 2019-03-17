@@ -9,9 +9,14 @@ Face Detection and Face Recognition is carried out based on weights calculated b
 READ_ME(Face Detect) and READ_ME(Face Recog) contain the instructions for face detection and face recognition codes respectively.
 
 # References
-•	https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html 
+•	https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html
+
 •	http://didawiki.cli.di.unipi.it/lib/exe/fetch.php/mcl/1992_turk_eigenfaces_for_recognition.pdf
+
 •	http://www.vision.jhu.edu/teaching/vision08/Handouts/case_study_pca1.pdf
+
 •	https://ieeexplore.ieee.org/document/139758
+
 •	https://www.learnopencv.com/face-reconstruction-using-eigenfaces-cpp-python/
+
 •	https://www.learnopencv.com/eigenface-using-opencv-c-python/
